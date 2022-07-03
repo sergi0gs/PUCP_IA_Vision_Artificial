@@ -175,15 +175,15 @@ Durante el entramiento de la red neuronal, se evaluaron el train y validation se
     <th colspan='2'>RED PROPIA</th>
   </tr>
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/88266673/177032095-58442d3b-9fad-4c61-9db5-5b6b1e5cdc17.JPG" height="250" /></th>
-    <th><img src="https://user-images.githubusercontent.com/88266673/177032384-df79c805-02bc-469a-9406-6a434ce81396.JPG" height="250" /></th>
+    <th><img src="https://user-images.githubusercontent.com/88266673/177032095-58442d3b-9fad-4c61-9db5-5b6b1e5cdc17.JPG" height="240" /></th>
+    <th><img src="https://user-images.githubusercontent.com/88266673/177032384-df79c805-02bc-469a-9406-6a434ce81396.JPG" height="240" /></th>
   </tr>
   <tr>
     <th colspan='2'>RED TRANSFER LEARNING</th>
   </tr>
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/88266673/177032336-f7c75229-3cce-4422-8c20-2a84d466035e.JPG" height="250" /></th>
-    <th><img src="https://user-images.githubusercontent.com/88266673/177032387-8e777c82-d258-43a6-b835-6e108fe59f91.JPG" height="250" /></th>
+    <th><img src="https://user-images.githubusercontent.com/88266673/177032336-f7c75229-3cce-4422-8c20-2a84d466035e.JPG" height="240" /></th>
+    <th><img src="https://user-images.githubusercontent.com/88266673/177032387-8e777c82-d258-43a6-b835-6e108fe59f91.JPG" height="240" /></th>
   </tr>
 </table>
 
