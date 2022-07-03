@@ -11,7 +11,7 @@
 ## Problemática
 Según las últimas noticias nacionales, se declaró el pasado 27 de Junio, 2022 el inicio de la cuarta ola del Covid 19. Motivo por el cual, se considera tomar medidas de detección temprana y efectiva ante la enfermedad para evitar un nuevo brote del virus en el país.
 
-![Alt text](![Captura](https://user-images.githubusercontent.com/71573671/177023276-67747727-2ca7-44d6-91fa-ca40325f40c3.PNG)
+![Captura](https://user-images.githubusercontent.com/71573671/177023276-67747727-2ca7-44d6-91fa-ca40325f40c3.PNG)
 
 ## Propuesta de Solución
 Desarrollo de un modelo de clasificación binaria de radiografías de tórax para la detección el COVID-19
