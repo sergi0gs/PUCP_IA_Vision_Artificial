@@ -168,7 +168,7 @@ Durante el entramiento de la red neuronal, se evaluaron el train y validation se
   </tr>
 </table>
 
-### 6.2. Métricas para cada set (train + validation + test)
+### 6.2. Métricas para cada set  (train + validation + test)
 
 <table align="center">
   <tr>
